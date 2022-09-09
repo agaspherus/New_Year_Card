@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">New Year Card</string>
+    <string name="image_description">this is my happy new year card image</string>
+    <string name="str_from_whom">from, Peter</string>
+</resources>
